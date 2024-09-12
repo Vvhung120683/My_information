@@ -45,7 +45,7 @@ p {
 /* phần header */
 .cv-header {
   position: relative;
-  /* background-color: var(--color-black); */
+  background-color: var(--color-black);
   width: auto;
   height: 300px;
   overflow: hidden;
